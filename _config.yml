@@ -93,7 +93,7 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: ja-JP # Set the site language
 title: "ferte" # Site name or title, also used in jekyll-seo-tag
-logo: "/images/ferte_logo-107x50.png" # Site logo, also used in jekyll-seo-tag
+logo: "/ferte/images/ferte_logo-107x50.png" # Site logo, also used in jekyll-seo-tag
 description: "This WebSite is ferte.jp" # Site description and default description, also used in jekyll-seo-tag
 url: "https://ferte.jp" # Site url, also used in jekyll-seo-tag
 baseurl: ""
@@ -122,8 +122,8 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Home
   url: /
-- title: About
-  url: /about/
+- title: policy
+  url: /policy/
 - title: Blog
   url: https://blog.yka.me/
 
