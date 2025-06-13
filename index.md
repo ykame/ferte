@@ -5,7 +5,7 @@ feature_text: |
 feature_image: "https://picsum.photos/1300/400?image=989"
 ---
 
-{% include button.html text="" icon="github" link="https://github.com/ykame/" color="#000000" %} {% include button.html text="" icon="twitter" link="https://twitter.com/YuhoKameda/" color="#0d94e7" %}
+{% include button.html text=" " icon="github" link="https://github.com/ykame/" color="#000000" %} {% include button.html text=" " icon="twitter" link="https://twitter.com/YuhoKameda/" color="#0d94e7" %}
 
 # ferte.jp
 ## 事業概要
